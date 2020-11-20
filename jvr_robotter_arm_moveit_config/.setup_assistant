@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: jvr_robotteer_arm
+    relative_path: urdf/six_dof_veg_choppper_arm.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/six_dof_veg_chopper_arm.srdf
+  CONFIG:
+    author_name: Javier
+    author_email: youdontcare@gmail.com
+    generated_timestamp: 1605217271
